@@ -7,6 +7,9 @@ Welcome to the **MIST Competition Projects** repository! 🎊 This is where crea
 ## 🌟 Projects Overview
 
 ### 1. 🚚 Cyber Truck (RC Car with Bluetooth Control) 📱
+
+<img src="Cyber_Truck.jpg" alt="Cyber Truck" width="70%"/>
+
 - **Description**: A sleek, futuristic RC car inspired by Tesla's Cyber Truck 🚀. This vehicle is controlled via a custom app built using MIT App Inventor, connecting seamlessly via Bluetooth 📲.
 - **Features**:
   - **Bluetooth Control**: Drive the truck using your smartphone 📱.
@@ -27,6 +30,9 @@ Welcome to the **MIST Competition Projects** repository! 🎊 This is where crea
 ---
 
 ### 2. 🏎️ Mario Kart RC Car (Precision Driving) 🎮
+
+<img src="Mario_Cart.JPG" alt="Mario_Cart" width="70%"/>
+
 - **Description**: A fun RC car inspired by the iconic Mario Kart game 🎮. This car features a custom-built controller for manual operation and precise controls for a smooth driving experience 🚗.
 - **Features**:
   - **Custom Controller**: Built with potentiometers for steering and speed control 🎮.
@@ -47,6 +53,9 @@ Welcome to the **MIST Competition Projects** repository! 🎊 This is where crea
 ---
 
 ### 3. 📺 Horror TV (Spooky Toy) 👻
+
+<img src="Horror_Tv.JPG" alt="Horror_Tv" width="70%"/>
+
 - **Description**: A creepy, old-fashioned TV model that surprises users with sudden movements and eerie sounds 🎃. Turn the dial to experience a chilling atmosphere as a hand slams against the screen! 😱
 - **Features**:
   - **Interactive Dial Mechanism**: Turning the dial triggers random horror effects 🔄.
