@@ -73,6 +73,8 @@ Welcome to the **MIST Competition Projects** repository! 🎊 This is where crea
 - **Future Improvements**:
   - Add more randomized effects to keep users guessing 🤔.
   - Include a hidden "safe mode" where nothing scary happens 😌.
+- **Perform Video**:
+  - [🎥Horror TV 작동 영상](https://photos.google.com/search/CgJUViIECgJUViilmf3N2zI%3D/photo/AF1QipPiaOtqBpMxLmh0yGUIBmDO71wu14NHOx2j3eGn?hl=ko)
 
 ---
 
