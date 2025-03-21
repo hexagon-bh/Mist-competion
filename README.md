@@ -110,7 +110,7 @@ We’d love your contributions! If you have ideas or improvements for any of the
 ## 💌 Contact Us
 
 Have questions or want to collaborate? Reach out!
-- Email: [your_email@example.com](mailto:your_email@example.com)
+- Email: [hyun0810d@gmail.com](mailto:hyun0810d@gmail.com)
 - GitHub Issues: Open an issue in this repository 📝
 
 ---
